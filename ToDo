@@ -1,0 +1,5 @@
+Only authenticated users can delete courses from the database - Use Express.
+On Angular, when user is not authenticated, hide X button that delete courses.
+Implement Update courses on Angular and Express.
+On Angular, prevent the access from not authenticated user on route: "/cursos/:id".
+Create Sign up, right now the code can only add users directly on the database.

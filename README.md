@@ -1,2 +1,2 @@
-# MEAN_project
+# mean-cursos
 MEAN JavaScript Full Stack 
